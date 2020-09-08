@@ -56,8 +56,8 @@ class BotHandler:
 
 
 # Token of bot
-token='1357395762:AAGJs1Jg3TjSRsUFfDtfDbIQdM6qnbpa7Po' # For @TabayanBot
-token1='1121491338:AAHmC3Rx1Z976mw6k23eR-mv61s4iKw0jwA' # For @Tabayantest2bot
+token='xxxxxxxxxxxxxxxxxx' # For @TabayanBot
+token1='xxxxxxxxxxxxxxxxxxxx' # For @Tabayantest2bot
 
 My_bot = BotHandler(token1)  # Bot's name
 

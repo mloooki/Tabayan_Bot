@@ -135,8 +135,8 @@ def TabayanModel():
 
 
 # Token of bot
-token='1357395762:AAGJs1Jg3TjSRsUFfDtfDbIQdM6qnbpa7Po' # For @TabayanBot
-token1='1121491338:AAHmC3Rx1Z976mw6k23eR-mv61s4iKw0jwA' # For @Tabayantest2bot
+token='xxxxxxxxxxxxxxxxxxxxx' # For @TabayanBot
+token1='xxxxxxxxxxxxxxxxxxxx' # For @Tabayantest2bot
 
 #Defining bot object
 My_bot = BotHandler(token)  # Bot's name

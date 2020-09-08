@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bb4b87-58ea-407d-9901-3fe0e265c418" name="Default Changelist" comment="" />
+    <list default="true" id="84bb4b87-58ea-407d-9901-3fe0e265c418" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyBot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TabayanSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/TabayanSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TabayanSystem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TabayanSystem3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TabayanSystem_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/TabayanSystem_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegram_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e0OqsWWWqSrNyUOQn1U4yFFedo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -159,5 +172,27 @@
       <updated>1593455237015</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TabayanSystem_9.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

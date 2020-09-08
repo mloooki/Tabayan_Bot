@@ -61,8 +61,8 @@ class BotHandler:
         return last_update
 
 #Token of your bot
-token='1357395762:AAGJs1Jg3TjSRsUFfDtfDbIQdM6qnbpa7Po' # For @TabayanBot
-oldtoken = '1297553380:AAHoieUp_G0icaDF9v6QDKTv2G6EPbwM8zU' # For @Tabayan_test1_bot
+token='xxxxxxxx' # For @TabayanBot
+oldtoken = 'xxxxxxx' # For @Tabayan_test1_bot
 
 My_bot = BotHandler(token) #Your bot's name
 

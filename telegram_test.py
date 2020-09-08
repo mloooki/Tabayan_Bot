@@ -4,7 +4,7 @@ from telegram.ext import CommandHandler
 
 
 
-My_token = '1297553380:AAHoieUp_G0icaDF9v6QDKTv2G6EPbwM8zU'
+My_token = 'xxxxxxxxxxxxxxx'
 updater = Updater(token=My_token, use_context=True)
 bot = telegram.Bot(token=My_token)
 dispatcher = updater.dispatcher

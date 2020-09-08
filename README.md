@@ -1,2 +1,2 @@
 # Tabayan_Bot
-This telegram bot to detect rumors using ML using python.
+This telegram bot to detects rumors using Machine learning text classification
